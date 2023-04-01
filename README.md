@@ -1,5 +1,7 @@
 # Javascript Dasar Looping
 
+#### Note: To run exercise number 1, 4, and 5, you can open file 'num1.html', 'num4.html', and 'num5.html'. Thank you.
+
 ### Exercise 1
 ###### Code JavaScript di atas merupakan sebuah loop for yang digunakan untuk menampilkan tulisan "User ke - " diikuti dengan nomor dari 1 hingga 100 di halaman web menggunakan method document.write().
 ###### Pertama, variabel i dideklarasikan dengan nilai awal 1 menggunakan kata kunci let, kemudian dievaluasi setiap kali iterasi loop. Loop akan berjalan selama nilai i kurang dari atau sama dengan 100, dan setiap iterasi nilai i akan ditambahkan 1.
