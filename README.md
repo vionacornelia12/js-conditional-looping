@@ -2,9 +2,11 @@
 
 ### Exercise 1
 
-'for (let i = 1; i <= 100; i++) {
+'''
+for (let i = 1; i <= 100; i++) {
   document.write("User ke - " + i + "<br>");
-}'
+}
+'''
 
 ###### Code JavaScript di atas merupakan sebuah loop for yang digunakan untuk menampilkan tulisan "User ke - " diikuti dengan nomor dari 1 hingga 100 di halaman web menggunakan method document.write().
 
